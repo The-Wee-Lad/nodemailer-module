@@ -1,0 +1,18 @@
+{
+  "name": "nodemailertest",
+  "version": "1.0.0",
+  "description": "Just a simple module to test nodemailer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "Aditya Narayan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.10.1",
+    "ora": "^8.2.0"
+  }
+}
